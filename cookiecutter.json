@@ -1,0 +1,8 @@
+{
+    "project_title": "Cookiecutter Personal",
+    "project_slug": "Cookiecutter_personal",
+    "project_description": "Tsomething cool",
+    "project_author_name": "Tu nombre",
+    "project_packages": ["All, Minimal"],
+    "python_version": "3.7"
+}
